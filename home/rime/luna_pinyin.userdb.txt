@@ -1,0 +1,147 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.2.0
+#@/tick	195
+#@/user_id	2a1abae4-5347-4626-9234-4227846a7145
+ai ai 	皚皚	c=5 d=3.60287 t=195
+ai qing 	愛情	c=1 d=0.38868 t=195
+ai shang 	愛上	c=2 d=1.18607 t=195
+ban 	班	c=1 d=0.447088 t=195
+bi ye 	畢業	c=1 d=0.444858 t=195
+bu liang ren 	不良人	c=3 d=1.33512 t=195
+bu zai 	不再	c=2 d=1.30108 t=195
+bu zhi 	不知	c=0 d=0.0551563 t=195
+chong xin 	重新	c=1 d=0.603506 t=195
+chu 	出	c=0 d=0.0904837 t=195
+ci 	詞	c=1 d=0.843665 t=195
+ci ku 	詞庫	c=3 d=2.66398 t=195
+da bu 	打不	c=0 d=0.0904837 t=195
+da bu chu 	打不出	c=1 d=0.909373 t=195
+de 	的	c=4 d=2.31526 t=195
+de dao 	得到	c=1 d=1 t=195
+di 	低	c=1 d=0.67032 t=195
+di er ji 	第二季	c=1 d=0.453845 t=195
+dian nao dong hua 	電腦動畫	c=1 d=0.449329 t=195
+er 	而	c=3 d=1.91012 t=195
+er wei ma 	二維碼	c=2 d=1.12093 t=195
+fa 	法	c=1 d=0.882497 t=195
+fang cao 	芳草	c=2 d=1.43814 t=195
+fang zheng 	方正	c=1 d=0.509156 t=195
+gai 	改	c=1 d=0.524663 t=195
+ge duan 	割斷	c=1 d=0.631284 t=195
+ge ren 	個人	c=2 d=1.76924 t=195
+ge ren ci ku 	個人詞庫	c=1 d=0.865022 t=195
+gu 	谷	c=1 d=0.666977 t=195
+guo qu 	過去	c=1 d=0.634448 t=195
+han zi 	漢字	c=1 d=0.913931 t=195
+hua 	畫	c=2 d=0.846335 t=195
+hua 	話	c=0 d=0.0416862 t=195
+hua jiang hu 	話江湖	c=2 d=0.842114 t=195
+huang ye 	荒野	c=1 d=0.67368 t=195
+hui yi 	回憶	c=1 d=0.647265 t=195
+ji lei 	積累	c=1 d=0.860708 t=195
+jiang hu 	江湖	c=0 d=0.0416862 t=195
+jie xi 	解析	c=1 d=0.543351 t=195
+jing ji 	荊棘	c=1 d=0.677057 t=195
+jiu 	就	c=1 d=0.636417 t=195
+jiu shi guang 	就時光	c=1 d=0.740818 t=195
+ju zhen 	矩陣	c=0 d=0.0826959 t=195
+ju zheng 	舉證	c=1 d=0.540279 t=195
+kai shi 	開始	c=1 d=0.606531 t=195
+kan jian 	看見	c=1 d=0.687289 t=195
+ke ai 	可愛	c=1 d=0.496585 t=195
+ke yi 	可以	c=1 d=0.396531 t=195
+la 	啦	c=2 d=0.82339 t=195
+lao shi 	老師	c=1 d=0.494109 t=195
+li 	裏	c=0 d=0.0609571 t=195
+liang ge 	兩個	c=1 d=0.826959 t=195
+mei 	沒	c=1 d=0.410656 t=195
+mei hua 	美化	c=1 d=0.537944 t=195
+mei you 	沒有	c=1 d=0.904837 t=195
+meng xiang 	夢想	c=1 d=0.472367 t=195
+mi tang 	蜜糖	c=2 d=1.00376 t=195
+miao 	喵	c=1 d=0.491644 t=195
+ne 	呢	c=1 d=0.398519 t=195
+ni 	你	c=1 d=0.810584 t=195
+pei zhi 	配置	c=1 d=0.873716 t=195
+pi fu 	皮膚	c=4 d=3.83362 t=195
+piao tian 	飄天	c=1 d=0.433874 t=195
+qi 	期	c=1 d=0.790571 t=195
+qi qi 	萋萋	c=1 d=0.737123 t=195
+qi zhi 	氣質	c=1 d=0.477114 t=195
+qie huan 	切換	c=1 d=0.895834 t=195
+qing 	情	c=1 d=0.806541 t=195
+qing 	請	c=0 d=0.0551563 t=195
+qing bu zhi suo qi 	請不知所起	c=1 d=0.554327 t=195
+qing huai 	情懷	c=1 d=0.481909 t=195
+qu 	去	c=1 d=0.679291 t=195
+ran ran 	冉冉	c=1 d=0.701173 t=195
+sha 	殺	c=2 d=0.807065 t=195
+shan gao 	山高	c=1 d=0.66365 t=195
+shen 	沈	c=1 d=0.557106 t=195
+shen 	深	c=1 d=0.559898 t=195
+shen 	神	c=1 d=0.429557 t=195
+shen mai 	深埋	c=1 d=0.637628 t=195
+shi guang 	時光	c=1 d=0.785486 t=195
+shi jie 	世界	c=1 d=0.571209 t=195
+shi shi 	實施	c=6 d=5.90608 t=195
+shi yong 	使用	c=3 d=2.19802 t=195
+shu ru 	輸入	c=1 d=0.878095 t=195
+shu ru fa 	輸入法	c=1 d=0.927743 t=195
+su du 	速度	c=1 d=0.588605 t=195
+sui bi 	隨筆	c=1 d=0.551563 t=195
+sui yi 	隨意	c=1 d=0.946485 t=195
+sui yue 	歲月	c=4 d=2.88021 t=195
+suo qi 	所起	c=0 d=0.0551563 t=195
+tang 	糖	c=1 d=0.486752 t=195
+tang zhu 	糖主	c=1 d=0.522046 t=195
+tao 	桃	c=1 d=0.412714 t=195
+ti 	提	c=0 d=0.0501576 t=195
+ti 	體	c=1 d=0.511709 t=195
+wang 	往	c=5 d=3.36479 t=195
+wang yuan fang qu 	往遠方去	c=4 d=3.10373 t=195
+wei 	微	c=1 d=0.535261 t=195
+wei ju 	畏懼	c=1 d=0.66034 t=195
+wei xin 	威信	c=0 d=0.0529935 t=195
+wei xin er wei ma 	威信二維碼	c=1 d=0.532592 t=195
+wo 	我	c=4 d=2.56626 t=195
+wo de 	我的	c=1 d=0.56836 t=195
+wo men 	我們	c=5 d=3.10989 t=195
+xi ti ji 	習題集	c=1 d=0.463013 t=195
+xi tong 	系統	c=1 d=0.923116 t=195
+xia zai 	下載	c=2 d=1.58522 t=195
+xian xing dai shu 	線性代數	c=1 d=0.465334 t=195
+xiang he 	相合	c=0 d=0.164569 t=195
+xiang he ju zhen 	相合矩陣	c=1 d=0.831104 t=195
+xiang he ju zheng 	相合舉證	c=1 d=0.822835 t=195
+xiao hua 	校花	c=1 d=0.440432 t=195
+xiao hua 	笑話	c=1 d=0.438235 t=195
+xiao shuo 	小說	c=2 d=0.86776 t=195
+xin di 	心底	c=1 d=0.640824 t=195
+xin qing 	心情	c=1 d=0.759572 t=195
+xun yu 	荀彧	c=1 d=0.40657 t=195
+ya ya 	丫丫	c=1 d=0.564431 t=195
+ya ya ti 	丫丫提	c=1 d=0.50409 t=195
+yan se 	顏色	c=1 d=0.529935 t=195
+yang guang 	陽光	c=0 d=0.0609571 t=195
+yang guang li 	陽光裏	c=1 d=0.612626 t=195
+yao wang 	遙望	c=1 d=0.722527 t=195
+yi 	一	c=1 d=0.794534 t=195
+yi ge 	一個	c=0 d=0.0465334 t=195
+you 	有	c=3 d=1.42425 t=195
+yu shi 	於是	c=5 d=3.13914 t=195
+yuan fang 	遠方	c=2 d=1.36692 t=195
+yuan fang qu 	遠方去	c=4 d=2.76249 t=195
+yuan run 	圓潤	c=1 d=0.501576 t=195
+yun suan 	運算	c=1 d=0.460704 t=195
+zai 	在	c=1 d=0.609571 t=195
+zen me 	怎麼	c=2 d=1.7851 t=195
+zhi dao 	知道	c=1 d=0.818731 t=195
+zhi neng 	只能	c=1 d=0.941765 t=195
+zhu 	主	c=1 d=0.489192 t=195
+zi 	字	c=1 d=0.900325 t=195
+zi ku 	字庫	c=5 d=2.8989 t=195
+zi ti 	字體	c=3 d=1.52254 t=195
+zuo 	做	c=0 d=0.0465334 t=195
+zuo yi ge 	做一個	c=1 d=0.467666 t=195
